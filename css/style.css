@@ -1,5 +1,10 @@
 body{
-    background-image:url(https://i.discogs.com/o0DGV7as9Ut1VD-8Mgs7Ahv47xeWgD-0NvYcsrNubUo/rs:fit/g:sm/q:90/h:434/w:547/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI4MTc1/LTE2MDYwODQ1NzUt/NDA3OC5qcGVn.jpeg);
+    padding:auto;
+    margin:auto;
+    background-image:url(https://www.xtrafondos.com/wallpapers/resized/edificios-ciudad-de-noche-3183.jpg?s=large);
+    
+  
+    
 }
 a{
     text-decoration: none;
@@ -60,7 +65,7 @@ button1{
     padding: 4px 4px;
     margin: 4px 0;
     border none;
-    width: 2.5%;
+    width: 5%;
     
 }
 .boton a:hover{
